@@ -1,2 +1,8 @@
 # python
 python learning day 1
+basic mathematical operations
+1. print
+2. if condition
+3. range
+4. assign values
+5. types
