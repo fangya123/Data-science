@@ -6,3 +6,9 @@ basic mathematical operations
 3. range
 4. assign values
 5. types
+
+python day 2, HU lecture
+basic stats
+basic plots:
+line, scattor, histogram,qq(exam normal)
+noise(specttrum)
