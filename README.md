@@ -1,4 +1,4 @@
-# python
+# Data Mining 
 python learning day 1
 basic mathematical operations
 1. print
