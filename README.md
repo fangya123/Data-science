@@ -12,3 +12,6 @@ basic stats
 basic plots:
 line, scattor, histogram,qq(exam normal)
 noise(specttrum)
+
+python day 2, HU C520 hw2
+Blackward selection, Hierchary, normaliaztion
